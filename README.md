@@ -5,7 +5,7 @@ This repository contains the source code for my personal portfolio website, show
 <br>
 
 <p align="center">
-  <a href="[https://portfolio-vijaykrishnaaa.vercel.app/](https://vercel.com/vijays-projects-8043c036/portfolio/2xec1PbCygfLztudoena4gbwNGpE)"> <img src="https://img.shields.io/badge/Live-Demo-2ea44f?style=for-the-badge" alt="Live Demo">
+  <a href="https://portfolio-8p2penl0i-vijays-projects-8043c036.vercel.app"> <img src="https://img.shields.io/badge/Live-Demo-2ea44f?style=for-the-badge" alt="Live Demo">
   </a>
 </p>
 
