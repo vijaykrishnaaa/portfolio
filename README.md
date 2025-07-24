@@ -9,15 +9,6 @@ This repository contains the source code for my personal portfolio website, show
   </a>
 </p>
 
----
-
-## 📸 Screenshots
-
-Here’s a glimpse of the portfolio in both light and dark modes.
-
-*Desktop View*
-![Desktop Screenshot](https://i.imgur.com/k2v0n4W.png) *Certifications Section*
-![Certifications Screenshot](https://i.imgur.com/g8e1y5f.png) ---
 
 ## ✨ Features
 
